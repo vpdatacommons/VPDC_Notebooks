@@ -7,7 +7,12 @@
 Background and Goal: Share LDSim data from a Jupyter notebook. The data is hosted on a cloud server and accessed remotely. 
 This repo relies on Google Cloud as our cloud server. 
 
-##For users who would like to open this Jupyter notebook locally, follow the below steps for setting up the Jupyter environment. 
+To get started, click below to launch a binder, executable environment in your browser to immediately begin to explore the LDSim data: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisterfx/VPDC_Notebooks/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/alisterfx/VPDC_Notebooks/HEAD
+## For users who would like to open this Jupyter notebook locally, follow the below steps for setting up the Jupyter environment. 
 
 ### Quick setup
   - Download and install Anaconda, an open-source Python distribution platform. The platform comes with all of the geoprocessing packages (such as GDAL) needed and makes it _very_ easy to create and work with Jupyter notebooks: <https://www.anaconda.com/products/distribution>
