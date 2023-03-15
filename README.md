@@ -8,10 +8,8 @@ Background and Goal: Share LDSim data from a Jupyter notebook. The data is hoste
 This repo relies on Google Cloud as our cloud server. 
 
 To get started, click below to launch a binder, executable environment in your browser to immediately begin to explore the LDSim data: 
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisterfx/VPDC_Notebooks/HEAD)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/alisterfx/VPDC_Notebooks/HEAD
+
 ## For users who would like to open this Jupyter notebook locally, follow the below steps for setting up the Jupyter environment. 
 
 ### Quick setup
