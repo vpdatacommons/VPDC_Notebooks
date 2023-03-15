@@ -5,10 +5,10 @@
 ### Option 1. Access the data immediately in your web browser by using [Binder](https://jupyter.org/binder#:~:text=The%20Binder%20project%20offers%20an,and%20streamline%20sharing%20among%20teams.) or [Google Colaboratory](https://colab.research.google.com/#scrollTo=-Rh3-Vt9Nev9)
 For those who immediately want to explore the data, VPDC offers two options currently - Binder and Google Coloaboratory. Clicking on either of these options will open  the Jupyter notebook directly in your browser enabling you to immediately review and explore the LDSim data.
 
-*To use Binder simply click on the Binder blue Binder badge below. This will open a new Binder in your browser enabling you to immediately review and explore LDSim data.
+* *Binder*: to use Binder simply click on the Binder blue Binder badge below. This will open a new Binder in your browser enabling you to immediately review and explore LDSim data.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisterfx/VPDC_Notebooks/HEAD)
 
-*To access the Jupter notebook using Google Collabortory, click [here](https://colab.research.google.com/github/alisterfx/VPDC_Notebooks/blob/main/VPDC_LDSim_GPU.ipynb)
+* *Google Colaboratory*: to access the Jupter notebook using Google Collabortory, click [here](https://colab.research.google.com/github/alisterfx/VPDC_Notebooks/blob/main/VPDC_LDSim_GPU.ipynb). Note: 
 If you use Google Drive for personal or professional cloud storage, this option also allows you to save this Jupyter notebook directly to Google Drive. 
 
 ### Option 2. Open the Jupyter notebook locally by manually setting up the environmnet
