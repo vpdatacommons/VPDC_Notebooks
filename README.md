@@ -1,20 +1,21 @@
-# VPDC_Notebooks
-## A repo for testing various cloud services and notebook workflows.
+# VP Data Commons Jupyter Notebook Access 
+A repo created by VPDC to host and share the very best forestry data via Jupyter Notebooks.
 
-## There are two options for accessing the Jupyter notebook: 
-### Option 1. Access the data immediately in your web browser by using [Binder](https://jupyter.org/binder#:~:text=The%20Binder%20project%20offers%20an,and%20streamline%20sharing%20among%20teams.) or [Google Colaboratory](https://colab.research.google.com/#scrollTo=-Rh3-Vt9Nev9)
-For those who immediately want to explore the data, VPDC offers two options currently - Binder and Google Coloaboratory. Clicking on either of these options will open  the Jupyter notebook directly in your browser enabling you to immediately review and explore the LDSim data.
+## LDSim data: 
+### There are two options for accessing the VPDC Jupyter notebook: 
+#### Option 1. Access the data immediately in your web browser by using [Binder](https://jupyter.org/binder#:~:text=The%20Binder%20project%20offers%20an,and%20streamline%20sharing%20among%20teams.) or [Google Colaboratory](https://colab.research.google.com/#scrollTo=-Rh3-Vt9Nev9)
+For those who want to explore the data immediately, VPDC offers two options - Binder and Google Colaboratory. Both options allow you to open the Jupyter notebook directly in your browser, enabling you to review and explore the LDSim data directly.
 
-* *Binder*: to use Binder simply click on the blue Binder badge below. This will open a new Binder in your browser enabling you to immediately review and explore LDSim data.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisterfx/VPDC_Notebooks/HEAD)
+* *Binder*: to use Binder to explore the LDSim data simply click on the following blue Binder badge to open a Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisterfx/VPDC_Notebooks/HEAD)
 
-* *Google Colaboratory*: to access the Jupter notebook using Google Collabortory, click [here](https://colab.research.google.com/github/alisterfx/VPDC_Notebooks/blob/main/VPDC_LDSim_GPU.ipynb). Note: 
-If you use Google Drive for personal or professional cloud storage, this option also allows you to save this Jupyter notebook directly to Google Drive. 
+* *Google Colaboratory*: if you already have a Google account use Google Colabortory to explore LDSim data by clicking on the following link to open a Jupyter notebook: [Google Colab Notebook](https://colab.research.google.com/github/alisterfx/VPDC_Notebooks/blob/main/VPDC_LDSim_GPU.ipynb). 
+**Note**: 
+If you use Google Drive for personal or professional cloud storage this option also allows you to save this Jupyter notebook directly to Google Drive. 
 
-### Option 2. Open the Jupyter notebook locally by manually setting up the environmnet
+#### Option 2. Open the Jupyter notebook locally by manually setting up the environmnet
 For users who would like to open this Jupyter notebook locally, follow the below steps for setting up the Jupyter environment. 
 
-## Local Jupyter setup 
+##### Local Jupyter setup 
   - Download and install Anaconda, an open-source Python distribution platform. The platform comes with all of the geoprocessing packages (such as GDAL) needed and makes it _very_ easy to create and work with Jupyter notebooks: <https://www.anaconda.com/products/distribution>
 - Once Anaconda is successfully installed on your machine open Terminal and start a new Jupyter Notebook:  
 `Jupyter notebook`
