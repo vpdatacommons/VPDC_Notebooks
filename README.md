@@ -20,7 +20,7 @@ To run these notebooks on a cloud platform, click on your preferred platform bad
 
 | Notebook                                     | Colab                                                                                                                                                                                               | Binder                                                                                                                                                                                                   | Kaggle                                                                                                                                                                               | Studio Lab                                                                                                                                                                                                   |
 |:--------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Explore LDSim GPU data via Jupyter notebook                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alisterfx/VPDC_Notebooks/notebooks/blob/main/VPDC_LDSim_GPU.ipynb)              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisterfx/VPDC_Notebooks/HEAD) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]()                | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]()              |
+| Explore LDSim GPU data via Jupyter notebook                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alisterfx/VPDC_Notebooks/blob/main/notebooks/01_LDSim_Notebook.ipynb)              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisterfx/VPDC_Notebooks/HEAD) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]()                | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]()              |
 | Future Notebooks                        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()            | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]()            | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]()            | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](b)            |
 |
 
@@ -83,5 +83,8 @@ _....COMING SOON_
 
 ## Related Resources
 
-* Get started with Jupyter Notebook: <https://www.dataquest.io/blog/jupyter-notebook-tutorial/>
+- [Get started with Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tutorial)
 
+- [Getting started with Anaconda](https://docs.anaconda.com/anaconda/user-guide/getting-started)
+
+- 
