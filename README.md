@@ -20,9 +20,8 @@ To run these notebooks on a cloud platform, click on your preferred platform bad
 
 | Notebook                                     | Colab                                                                                                                                                                                               | Binder                                                                                                                                                                                                   | Kaggle                                                                                                                                                                               | Studio Lab                                                                                                                                                                                                   |
 |:--------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Explore LDSim GPU data via Jupyter notebook                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alisterfx/VPDC_Notebooks/blob/main/notebooks/01_LDSim_Notebook.ipynb)              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisterfx/VPDC_Notebooks/HEAD) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]()                | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]()              |
-| Future Notebooks                        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()            | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]()            | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]()            | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](b)            |
-|
+| Explore LDSim GPU data via Jupyter notebook   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alisterfx/VPDC_Notebooks/blob/main/notebooks/01_LDSim_Notebook.ipynb)   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisterfx/VPDC_Notebooks/HEAD) |   COMING SOON   | COMING SOON
+
 
 
 As mentioned before, many notebooks need ample GPUs and memory allocation to maximize performance and speed. Unfortunately, while Colab and Binder are fantastic community resources, they tend to be slower (Colab GPUs are often K80s, meaning limited memory - while Binder guarantees 1-2 GB of memory. This means that process speeds may be pretty slow, and the server may sometimes crash. Because of this, we recommend using [SageMaker Studio Lab](https://studiolab.sagemaker.aws/), [Kaggle](https://www.kaggle.com/docs/notebooks), or [Gradient](https://gradient.run/notebooks) since each of these platforms often provide more performant GPUs. Also, they are free!
@@ -35,7 +34,7 @@ As mentioned before, many notebooks need ample GPUs and memory allocation to max
 To run the notebooks on your own machine, first clone the repository and navigate to it:
 
 ```bash
-gh repo clone alisterfx/VPDC_Notebooks
+gh repo clone vpdatacommons/VPDC_Notebooks
 
 cd notebooks
 ```
@@ -64,7 +63,7 @@ jupyter notebook
 To run the notebooks on your own machine, first clone the repository and navigate to it:
 
 ```bash
-gh repo clone alisterfx/VPDC_Notebooks
+gh repo clone vpdatacommons/VPDC_Notebooks
 
 cd notebooks
 ```
@@ -86,5 +85,3 @@ _....COMING SOON_
 - [Get started with Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tutorial)
 
 - [Getting started with Anaconda](https://docs.anaconda.com/anaconda/user-guide/getting-started)
-
-- 
