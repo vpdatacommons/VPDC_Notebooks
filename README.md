@@ -12,6 +12,9 @@ Note: because many notebooks contain complex spatial data, they require a dedica
 
 - LDSim 
   * [Explore LDSim GPU data via Jupyter notebook](notebooks/01_LDSim_Notebook.ipynb)
+ 
+- Wildfire Ignition Probability
+  * [Explore a subset of the Wildfire Ignition Probability data via Jupyter notebook](notebooks/02_WildfireIgnitionProbability_Notebook.ipynb)
 
 
 ## Running on a cloud platform
@@ -21,6 +24,7 @@ To run these notebooks on a cloud platform, click on your preferred platform bad
 | Notebook                                     | Colab                                                                                                                                                                                               | Binder                                                                                                                                                                                                   | Kaggle                                                                                                                                                                               | Studio Lab                                                                                                                                                                                                   |
 |:--------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Explore LDSim GPU data via Jupyter notebook   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vpdatacommons/VPDC_Notebooks/blob/main/notebooks/01_LDSim_Notebook.ipynb)   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vpdatacommons/VPDC_Notebooks/39c9ffedd9e4e4d952571453cfac6be4ad0779c7?urlpath=lab%2Ftree%2Fnotebooks%2F01_LDSim_Notebook.ipynb) |   COMING SOON   | COMING SOON
+| Explore Wildfire Ignition Probability data via Jupyter notebook                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vpdatacommons/VPDC_Notebooks/blob/main/notebooks/02_WildfireIgnitionProbability_Notebook.ipynb)              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vpdatacommons/VPDC_Notebooks/HEAD?labpath=notebooks%2F02_WildfireIgnitionProbability_Notebook.ipynb) |  COMING SOON   | COMING SOON   
 
 
 
